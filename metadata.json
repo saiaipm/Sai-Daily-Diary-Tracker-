@@ -1,0 +1,6 @@
+{
+  "name": "Daily Dairy Tracker",
+  "description": "A mobile-first dairy purchase tracker synced with your personal Google Sheet wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
